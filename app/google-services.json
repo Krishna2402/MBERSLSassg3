@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250900557117",
+    "project_id": "emergencyresponse-psw4pa",
+    "storage_bucket": "emergencyresponse-psw4pa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250900557117:android:0f391b6fb0c36909b66954",
+        "android_client_info": {
+          "package_name": "com.fyp.emergencyresponse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2X5a8Bk3qI6B8mZCo3lsebzPn5POj-yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250900557117:android:938f9a9a60f5e94cb66954",
+        "android_client_info": {
+          "package_name": "com.mycompany.emergencyresponse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2X5a8Bk3qI6B8mZCo3lsebzPn5POj-yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
